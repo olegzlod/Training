@@ -1,2 +1,2 @@
 # Training
-For LEctures
+For Lectures
